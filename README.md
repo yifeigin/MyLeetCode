@@ -1,7 +1,7 @@
 # MyLeetCode
 Yifei Wang's solutions for LeetCode Questions
 
-## List of files:
+## Algorithms:
  #  | Question           |  Solution       | 
  -----|---------------- | --------------- |
  344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [ReverseString.cc] (./solutions/ReverseString.cc) |
