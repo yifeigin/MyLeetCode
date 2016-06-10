@@ -17,3 +17,4 @@ Yifei Wang's solutions for LeetCode Questions
  171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [ExcelSheetColumnNumber.cc] (./solutions/ExcelSheetColumnNumber.cc) |
  169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [MajorityElement.cc] (./solutions/MajorityElement.cc) |
  217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [ContainsDuplicate.cc] (./solutions/ContainsDuplicate.cc) |
+ 350 | [Intersection Of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [IntersectionOfTwoArraysII.cc] (./solutions/IntersectionOfTwoArraysII.cc) |
