@@ -44,3 +44,14 @@ Yifei Wang's solutions for LeetCode Questions
  225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [ImplementStackusingQueues.cc] (./solutions/ImplementStackusingQueues.cc) |
  28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [ImplementstrStr().cc] (./solutions/ImplementstrStr().cc) |
  343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [IntegerBreak.cc] (./solutions/IntegerBreak.cc) |
+160 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [IntersectionofTwoLinkedLists.cc] (./solutions/IntersectionofTwoLinkedLists.cc) |
+ 205 | [Majority Element](https://leetcode.com/problems/majority-element/) | [IsomorphicStrings.cc	] (./solutions/IsomorphicStrings.cc) |
+ 58 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [LengthofLastWord.cc] (./solutions/LengthofLastWord.cc) |
+ 141 | [Intersection Of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [LinkedListCycle.cc] (./solutions/LinkedListCycle.cc) |
+ 14 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [LongestCommonPrefix.cc] (./solutions/LongestCommonPrefix.cc) |
+ 235 | [Add Binary](https://leetcode.com/problems/add-binary/) | [LowestCommonAncestorofaBinarySearchTree.cc] (./solutions/LowestCommonAncestorofaBinarySearchTree.cc) |
+ 104 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [MaximumDepthofBinaryTree.cc] (./solutions/MaximumDepthofBinaryTree.cc) |
+ 88 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [MergeSortedArray.cc] (./solutions/MergeSortedArray.cc) |
+ 21 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [MergeTwoSortedLists.cc] (./solutions/MergeTwoSortedLists.cc) |
+ 111 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [MinimumDepthofBinaryTree.cc] (./solutions/MinimumDepthofBinaryTree.cc) |
+ 268 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [MissingNumber.cc] (./solutions/MissingNumber.cc) |
