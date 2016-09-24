@@ -84,4 +84,10 @@ Yifei Wang's solutions for LeetCode Questions
  101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [SymmetricTree.cc] (./solutions/SymmetricTree.cc) |
  347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [TopKFrequentElements.cc] (./solutions/TopKFrequentElements.cc) |
  1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TwoSum.cc] (./solutions/TwoSum.cc) |
+ 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [UglyNumber.cc] (./solutions/UglyNumber.cc) |
+ 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [ValidPalindrome.cc] (./solutions/ValidPalindrome.cc) |
+ 20 | [Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/) | [ValidParentheses.cc] (./solutions/ValidParentheses.cc) |
+ 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [ValidSudoku.cc] (./solutions/ValidSudoku.cc) |
+ 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [WordPattern.cc] (./solutions/WordPattern.cc) |
+ 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [ZigZagConversion.cc] (./solutions/ZigZagConversion.cc) |
 
