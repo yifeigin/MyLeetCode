@@ -55,4 +55,13 @@ Yifei Wang's solutions for LeetCode Questions
  21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists.cc] (./solutions/MergeTwoSortedLists.cc) |
  111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [MinimumDepthofBinaryTree.cc] (./solutions/MinimumDepthofBinaryTree.cc) |
  268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [MissingNumber.cc] (./solutions/MissingNumber.cc) |
+238 | [Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | [ProductofArrayExceptSelf.cc] (./solutions/ProductofArrayExceptSelf.cc) |
+ 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [PowerofThree.cc] (./solutions/PowerofThree.cc) |
+ 231 | [Power of Two](https://leetcode.com/problems/power-of-two/] (./solutions/PowerofTwo.cc) |
+ 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [PalindromeLinkedList.cc] (./solutions/PalindromeLinkedList.cc) |
+ 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [PalindromeNumber.cc] (./solutions/PalindromeNumber.cc) |
+ 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [PascalsTriangle.cc] (./solutions/PascalsTriangle.cc) |
+ 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [PascalsTriangleII.cc] (./solutions/PascalsTriangleII.cc) |
+ 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [PathSum.cc] (./solutions/PathSum.cc) |
+ 66 | [Plus One](https://leetcode.com/problems/plus-one/] (./solutions/PlusOne.cc) |
 
