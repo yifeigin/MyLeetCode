@@ -44,4 +44,15 @@ Yifei Wang's solutions for LeetCode Questions
  225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [ImplementStackusingQueues.cc] (./solutions/ImplementStackusingQueues.cc) |
  28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [ImplementstrStr().cc] (./solutions/ImplementstrStr().cc) |
  343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [IntegerBreak.cc] (./solutions/IntegerBreak.cc) |
+160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [IntersectionofTwoLinkedLists.cc] (./solutions/IntersectionofTwoLinkedLists.cc) |
+ 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [IsomorphicStrings.cc	] (./solutions/IsomorphicStrings.cc) |
+ 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [LengthofLastWord.cc] (./solutions/LengthofLastWord.cc) |
+ 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [LinkedListCycle.cc] (./solutions/LinkedListCycle.cc) |
+ 14 | [Longest Common Prefix ](https://leetcode.com/problems/longest-common-prefix/) | [LongestCommonPrefix.cc] (./solutions/LongestCommonPrefix.cc) |
+ 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [LowestCommonAncestorofaBinarySearchTree.cc] (./solutions/LowestCommonAncestorofaBinarySearchTree.cc) |
+ 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [MaximumDepthofBinaryTree.cc] (./solutions/MaximumDepthofBinaryTree.cc) |
+ 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/ | [MergeSortedArray.cc] (./solutions/MergeSortedArray.cc) |
+ 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists.cc] (./solutions/MergeTwoSortedLists.cc) |
+ 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [MinimumDepthofBinaryTree.cc] (./solutions/MinimumDepthofBinaryTree.cc) |
+ 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [MissingNumber.cc] (./solutions/MissingNumber.cc) |
 
