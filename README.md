@@ -74,4 +74,14 @@ Yifei Wang's solutions for LeetCode Questions
  190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [ReverseBits.cc] (./solutions/ReverseBits.cc) |
  7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [ReverseInteger.cc] (./solutions/ReverseInteger.cc) |
  206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [ReverseLinkedList.cc] (./solutions/ReverseLinkedList.cc) |
+345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [ReverseVowelsofaString.cc] (./solutions/ReverseVowelsofaString.cc) |
+ 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [RomantoInteger.cc] (./solutions/RomantoInteger.cc) |
+ 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [RotateArray.cc] (./solutions/RotateArray.cc) |
+ 136 | [Single Number](https://leetcode.com/problems/single-number/) | [SingleNumber.cc] (./solutions/SingleNumber.cc) |
+ 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [SingleNumberIII.cc] (./solutions/SingleNumberIII.cc) |
+ 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [StringtoInteger(atoi).cc] (./solutions/StringtoInteger(atoi).cc) |
+ 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [SwapNodesinPairs.cc] (./solutions/SwapNodesinPairs.cc) |
+ 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [SymmetricTree.cc] (./solutions/SymmetricTree.cc) |
+ 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [TopKFrequentElements.cc] (./solutions/TopKFrequentElements.cc) |
+ 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TwoSum.cc] (./solutions/TwoSum.cc) |
 
