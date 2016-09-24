@@ -1,4 +1,4 @@
-# MyLeetCode
+# LeetCode
 Yifei Wang's solutions for LeetCode Questions
 
 ## Algorithms:
