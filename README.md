@@ -51,7 +51,7 @@ Yifei Wang's solutions for LeetCode Questions
  14 | [Longest Common Prefix ](https://leetcode.com/problems/longest-common-prefix/) | [LongestCommonPrefix.cc] (./solutions/LongestCommonPrefix.cc) |
  235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [LowestCommonAncestorofaBinarySearchTree.cc] (./solutions/LowestCommonAncestorofaBinarySearchTree.cc) |
  104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [MaximumDepthofBinaryTree.cc] (./solutions/MaximumDepthofBinaryTree.cc) |
- 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/ | [MergeSortedArray.cc] (./solutions/MergeSortedArray.cc) |
+ 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [MergeSortedArray.cc] (./solutions/MergeSortedArray.cc) |
  21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [MergeTwoSortedLists.cc] (./solutions/MergeTwoSortedLists.cc) |
  111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [MinimumDepthofBinaryTree.cc] (./solutions/MinimumDepthofBinaryTree.cc) |
  268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [MissingNumber.cc] (./solutions/MissingNumber.cc) |
