@@ -64,4 +64,14 @@ Yifei Wang's solutions for LeetCode Questions
  119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [PascalsTriangleII.cc] (./solutions/PascalsTriangleII.cc) |
  112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [PathSum.cc] (./solutions/PathSum.cc) |
  66 | [Plus One](https://leetcode.com/problems/plus-one/) | [PlusOne.cc] (./solutions/PlusOne.cc) |
+ 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [RangeSumQuery-Immutable.cc] (./solutions/RangeSumQuery-Immutable.cc) |
+ 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [RectangleArea.cc] (./solutions/RectangleArea.cc) |
+ 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [RemoveDuplicatesfromSortedArray.cc] (./solutions/RemoveDuplicatesfromSortedArray.cc) |
+ 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [RemoveDuplicatesfromSortedList.cc] (./solutions/RemoveDuplicatesfromSortedList.cc) |
+ 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [RemoveLinkedListElements.cc] (./solutions/RemoveLinkedListElements.cc) |
+ 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [RemoveElement.cc] (./solutions/RemoveElement.cc) |
+ 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [RemoveNthNodeFromEndofList.cc] (./solutions/RemoveNthNodeFromEndofList.cc) |
+ 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [ReverseBits.cc] (./solutions/ReverseBits.cc) |
+ 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [ReverseInteger.cc] (./solutions/ReverseInteger.cc) |
+ 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [ReverseLinkedList.cc] (./solutions/ReverseLinkedList.cc) |
 
