@@ -63,5 +63,5 @@ Yifei Wang's solutions for LeetCode Questions
  118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [PascalsTriangle.cc] (./solutions/PascalsTriangle.cc) |
  119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [PascalsTriangleII.cc] (./solutions/PascalsTriangleII.cc) |
  112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [PathSum.cc] (./solutions/PathSum.cc) |
- 66 | [Plus One](https://leetcode.com/problems/plus-one/] (./solutions/PlusOne.cc) |
+ 66 | [Plus One](https://leetcode.com/problems/plus-one/) [PlusOne.cc] (./solutions/PlusOne.cc) |
 
