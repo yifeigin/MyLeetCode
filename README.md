@@ -34,4 +34,13 @@ Yifei Wang's solutions for LeetCode Questions
  219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [ContainsDuplicateII.cc] (./solutions/ContainsDuplicateII.cc) |
  357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [CountNumberswithUniqueDigits.cc] (./solutions/CountNumberswithUniqueDigits.cc) |
  204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [CountPrimes.cc] (./solutions/CountPrimes.cc) |
- 
+  338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [CountingBits.cc] (./solutions/CountingBits.cc) |
+ 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [ExcelSheetColumnTitle.cc] (./solutions/ExcelSheetColumnTitle.cc) |
+ 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [FactorialTrailingZeroes.cc] (./solutions/FactorialTrailingZeroes.cc) |
+ 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [FirstBadVersion.cc] (./solutions/FirstBadVersion.cc) |
+ 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [HappyNumber.cc] (./solutions/HappyNumber.cc) |
+ 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [HouseRobber.cc] (./solutions/HouseRobber.cc) |
+ 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [ImplementQueueusingStacks.cc] (./solutions/ImplementQueueusingStacks.cc) |
+ 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [ImplementStackusingQueues.cc] (./solutions/ImplementStackusingQueues.cc) |
+ 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [ImplementstrStr().cc] (./solutions/ImplementstrStr().cc) |
+ 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [IntegerBreak.cc] (./solutions/IntegerBreak.cc) |
